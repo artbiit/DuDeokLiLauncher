@@ -47,5 +47,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+  },
+  "volta": {
+    "node": "20.19.3"
   }
 }
